@@ -1,7 +1,7 @@
 # CitationExplorer
 A tool for using localised citation networks to aid literature discovery
 
-#Motivation
+## Motivation
 
 The search for relevant information in the ever swelling tide of scientific papers is a central feature of almost every research project. 
 
@@ -15,7 +15,7 @@ However, citations are far from linear -- they exist within a network. Each is c
 
 This project aims to allow researchers to use localised citation networks as a shortcut to finding important papers in their area. 
 
-#In Practice
+## In Practice
 
 The search starts with a handful of seed papers - perhaps the ones your supervisor has written or recommended to you, or ones chosen semi-randomly to represent the idea space you’re interested in. These will provide a footing to reduce the network of all citations to subnetworks where your interest likely lies.
 
@@ -31,7 +31,7 @@ Or we can pick two sets of papers representing seemingly unrelated fields and se
 
 And so it continues, as far as our creativity allows and the user’s needs require. We can define any number of metrics on this local network that might best identify the papers you are interested in. What’s more we can directly visualise the citation relations as a network, putting each paper in the context of the others and providing yet more insight. 
 
-#Current Progress
+## Current Progress
 
 A prototype has been built with RShiny, with a single set of static data based on a real research situation. 
 
