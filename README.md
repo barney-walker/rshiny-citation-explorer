@@ -1,6 +1,8 @@
 # CitationExplorer
 A tool for using localised citation networks to aid literature discovery
 
+NOTE: this RShiny proof-of-concept has been superceded by a fully functional javascript implementation (see https://github.com/bjw49/citation-network-explorer) 
+
 ## Motivation
 
 The search for relevant information in the ever swelling tide of scientific papers is a central feature of almost every research project. 
