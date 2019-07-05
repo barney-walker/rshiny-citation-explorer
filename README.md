@@ -1,7 +1,7 @@
 # CitationExplorer
 A tool for using localised citation networks to aid literature discovery
 
-NOTE: this RShiny proof-of-concept has been superceded by a fully functional javascript implementation (see https://github.com/bjw49/citation-network-explorer) 
+NOTE: this RShiny proof-of-concept has been superceded by a fully functional javascript implementation (see https://github.com/CitationGecko/gecko-react) 
 
 ## Motivation
 
